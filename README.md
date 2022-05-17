@@ -11,4 +11,4 @@
 * Redux-Saga
 * Material UI
 
-[Деплой](https://sotnikovich.github.io/avia-search/)
+[Деплой](https://sotnikovich.github.io/employees-result/)
